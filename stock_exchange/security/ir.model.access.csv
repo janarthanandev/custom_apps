@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_stock_exchange,stock_exchange,model_stock_exchange,,1,1,1,1
+access_stock_exchange_line,stock_exchange_line,model_stock_exchange_line,,1,1,1,1
